@@ -1,0 +1,7 @@
+env
+data/
+mlartifacts/*
+!mlartifacts/.gitignore
+mlruns/*
+!mlruns/.gitignore
+.env/
